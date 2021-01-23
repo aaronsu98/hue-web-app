@@ -20,7 +20,6 @@ function Footer() {
 }
 
 function App() {
-  fetchLights();
   return (
     <div className="App">
       <Header name="Aaron" />
